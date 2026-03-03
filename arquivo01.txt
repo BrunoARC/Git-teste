@@ -1,3 +1,4 @@
 Oi pessoal, tudo bem com vocês??
 Oi pessoal, tudo bem??
 Testando conflitos no git usando apenas o terminal
+Teste final de comflitos no gir.
